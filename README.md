@@ -7,4 +7,4 @@
  2. Computer Architecture
  3. Machine Learning
  4. Financial Engineering
-- My current research interest is quantum compiler optimization.
+- My current research interest is Quantum Compiler Optimization.
