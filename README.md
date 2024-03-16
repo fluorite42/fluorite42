@@ -1,10 +1,9 @@
 # About me
 
-- I am an undergraduate student at Yonsei University.
-- I am majoring Electrical and Electronics Engineering and Economics.
-- I am interested in, but not limited to:
+- Hyungseok Kim is presently an undergraduate student pursuing a dual degree in Electrical and Electronics Engineering and Economics at Yonsei University.
+- His academic pursuits are underscored by a keen interest in a diverse range of disciplines, including but not limited to:
 <br/>&nbsp;1. Quantum Computing
 <br/>&nbsp;2. Computer Architecture
 <br/>&nbsp;3. Machine Learning
 <br/>&nbsp;4. Financial Engineering
-- My current research interest is Quantum Compiler Optimization.
+- Currently, his primary focus lies in Quantum Compiler Optimization, reflecting his dedication to cutting-edge research within the field.
