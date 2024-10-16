@@ -5,5 +5,5 @@
 <br/>&nbsp;1. Quantum Computing
 <br/>&nbsp;2. Computer Architecture
 <br/>&nbsp;3. Machine Learning
-<br/>&nbsp;4. Financial Engineering
+<br/>&nbsp;4. Programming Language Theory
 - Currently, his primary focus lies in Quantum Compiler Optimization, reflecting his dedication to cutting-edge research within the field.
